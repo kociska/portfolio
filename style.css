@@ -1,0 +1,37 @@
+/* Color palette
+#FEFEFE white
+#F0D9AD beige sand
+#92A70C green fresh
+#467302 green bottle
+#1D1D1D black
+*/
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+* {
+    box-sizing: border-box;
+    /* The code ensures that all elements are sized in this more intuitive way and is good practice.*/
+
+}
+body  {
+  background-color: #FEFEFE
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Franklin Gothic Medium', 'Lato', sans-serifserif;
+}
+
+
+p {
+    font-family: 'Lato', 'Geneva', sans-serif;
+  font-size: 1.2rem;
+    
+}
